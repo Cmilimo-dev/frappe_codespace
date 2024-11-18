@@ -1,0 +1,69 @@
+2024-11-18 14:29:41,139 Worker rq:worker:0d3904352f0e4866a1173c4f4401e82d started with PID 6659, version 1.16.2
+2024-11-18 14:29:41,139 Subscribing to channel rq:pubsub:0d3904352f0e4866a1173c4f4401e82d
+2024-11-18 14:29:41,141 *** Listening on workspace-frappe-bench:short, workspace-frappe-bench:default, workspace-frappe-bench:long...
+2024-11-18 14:29:41,142 Cleaning registries for queue: workspace-frappe-bench:short
+2024-11-18 14:29:41,143 Cleaning registries for queue: workspace-frappe-bench:default
+2024-11-18 14:29:41,144 Cleaning registries for queue: workspace-frappe-bench:long
+2024-11-18 14:41:17,058 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User cmilimo5@gmail.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='dev.localhost', user='Administrator') (dev.localhost::7dc2d3c9-5f24-4a3b-929c-b002b2bf6ae0)
+2024-11-18 14:41:17,729 workspace-frappe-bench:default: Job OK (dev.localhost::7dc2d3c9-5f24-4a3b-929c-b002b2bf6ae0)
+2024-11-18 14:41:17,729 Result is kept for 600 seconds
+2024-11-18 14:41:17,743 Cleaning registries for queue: workspace-frappe-bench:short
+2024-11-18 14:41:17,745 Cleaning registries for queue: workspace-frappe-bench:default
+2024-11-18 14:41:17,747 Cleaning registries for queue: workspace-frappe-bench:long
+2024-11-18 14:41:17,749 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'cmilimo5@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='dev.localhost', user='Administrator') (dev.localhost::8dfdba47-fb9e-478b-9be9-15a9963a92e4)
+2024-11-18 14:41:18,094 workspace-frappe-bench:default: Job OK (dev.localhost::8dfdba47-fb9e-478b-9be9-15a9963a92e4)
+2024-11-18 14:41:18,094 Result is kept for 600 seconds
+2024-11-18 14:43:30,650 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='dev.localhost', user='Administrator') (dev.localhost::37962b66-29ef-443f-b4aa-b586a1fccce2)
+2024-11-18 14:43:30,949 workspace-frappe-bench:default: Job OK (dev.localhost::37962b66-29ef-443f-b4aa-b586a1fccce2)
+2024-11-18 14:43:30,949 Result is kept for 600 seconds
+2024-11-18 14:47:04,392 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='dev.localhost', user='Administrator') (dev.localhost::c0c86106-6077-4d49-870b-773bc853c5f2)
+2024-11-18 14:47:04,660 workspace-frappe-bench:default: Job OK (dev.localhost::c0c86106-6077-4d49-870b-773bc853c5f2)
+2024-11-18 14:47:04,660 Result is kept for 600 seconds
+2024-11-18 14:47:24,754 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='dev.localhost', user='Administrator') (dev.localhost::d443a346-fcf8-4fad-b056-8b842c8219b2)
+2024-11-18 14:47:25,117 workspace-frappe-bench:default: Job OK (dev.localhost::d443a346-fcf8-4fad-b056-8b842c8219b2)
+2024-11-18 14:47:25,117 Result is kept for 600 seconds
+2024-11-18 14:48:17,374 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='dev.localhost', user='Administrator') (dev.localhost::c7a05d9a-d41c-4b45-8010-39afd31afdd3)
+2024-11-18 14:48:17,663 workspace-frappe-bench:default: Job OK (dev.localhost::c7a05d9a-d41c-4b45-8010-39afd31afdd3)
+2024-11-18 14:48:17,663 Result is kept for 600 seconds
+2024-11-18 14:48:55,514 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='dev.localhost', user='Administrator') (dev.localhost::4f8e63c0-3d9e-437f-a2c7-9b46bb6464a6)
+2024-11-18 14:48:55,777 workspace-frappe-bench:default: Job OK (dev.localhost::4f8e63c0-3d9e-437f-a2c7-9b46bb6464a6)
+2024-11-18 14:48:55,777 Result is kept for 600 seconds
+2024-11-18 14:51:08,564 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'about-irfan-cabs'}, method=<function update_index_for_path at 0x786223f52020>, site='dev.localhost', user='Administrator') (dev.localhost::d9a13ce8-81b4-451e-abda-25ae93db4cd1)
+2024-11-18 14:51:09,105 workspace-frappe-bench:default: Job OK (dev.localhost::d9a13ce8-81b4-451e-abda-25ae93db4cd1)
+2024-11-18 14:51:09,105 Result is kept for 600 seconds
+2024-11-18 14:51:58,279 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'about-irfan-cabs'}, method=<function update_index_for_path at 0x786223f52020>, site='dev.localhost', user='Administrator') (dev.localhost::319c33f9-cae2-436a-9e7d-080312ec5ef5)
+2024-11-18 14:51:58,802 workspace-frappe-bench:default: Job OK (dev.localhost::319c33f9-cae2-436a-9e7d-080312ec5ef5)
+2024-11-18 14:51:58,802 Result is kept for 600 seconds
+2024-11-18 14:51:58,809 Cleaning registries for queue: workspace-frappe-bench:short
+2024-11-18 14:51:58,810 Cleaning registries for queue: workspace-frappe-bench:default
+2024-11-18 14:51:58,811 Cleaning registries for queue: workspace-frappe-bench:long
+2024-11-18 14:52:30,824 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'about-irfan-cabs'}, method=<function update_index_for_path at 0x786223f52020>, site='dev.localhost', user='Administrator') (dev.localhost::8398b95a-7063-4664-a5b1-d10007782332)
+2024-11-18 14:52:31,339 workspace-frappe-bench:default: Job OK (dev.localhost::8398b95a-7063-4664-a5b1-d10007782332)
+2024-11-18 14:52:31,339 Result is kept for 600 seconds
+2024-11-18 14:52:46,520 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'about-irfan-cabs'}, method=<function update_index_for_path at 0x786223f52020>, site='dev.localhost', user='Administrator') (dev.localhost::b54d9277-85f9-48d5-a5b4-cdcfb58f51cd)
+2024-11-18 14:52:47,057 workspace-frappe-bench:default: Job OK (dev.localhost::b54d9277-85f9-48d5-a5b4-cdcfb58f51cd)
+2024-11-18 14:52:47,057 Result is kept for 600 seconds
+2024-11-18 14:53:01,313 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'about-irfan-cabs'}, method=<function update_index_for_path at 0x786223f52020>, site='dev.localhost', user='Administrator') (dev.localhost::33d42211-f646-4396-a0a7-7751e4665b1e)
+2024-11-18 14:53:01,845 workspace-frappe-bench:default: Job OK (dev.localhost::33d42211-f646-4396-a0a7-7751e4665b1e)
+2024-11-18 14:53:01,845 Result is kept for 600 seconds
+2024-11-18 14:53:19,005 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'about-irfan-cabs'}, method=<function update_index_for_path at 0x786223f52020>, site='dev.localhost', user='Administrator') (dev.localhost::c74f5cf1-52cd-4e04-971f-5f77ab168aac)
+2024-11-18 14:53:19,563 workspace-frappe-bench:default: Job OK (dev.localhost::c74f5cf1-52cd-4e04-971f-5f77ab168aac)
+2024-11-18 14:53:19,563 Result is kept for 600 seconds
+2024-11-18 14:54:52,376 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'terms-&-conditions'}, method=<function update_index_for_path at 0x786223f52020>, site='dev.localhost', user='Administrator') (dev.localhost::91afe554-d01e-4f09-b9f3-5e5e1477aaf7)
+2024-11-18 14:54:52,946 workspace-frappe-bench:default: Job OK (dev.localhost::91afe554-d01e-4f09-b9f3-5e5e1477aaf7)
+2024-11-18 14:54:52,946 Result is kept for 600 seconds
+2024-11-18 14:55:24,480 workspace-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'terms-&-conditions'}, method=<function update_index_for_path at 0x786223f52020>, site='dev.localhost', user='Administrator') (dev.localhost::574bcf94-a385-4490-a3b1-27dc7d4e212c)
+2024-11-18 14:55:25,028 workspace-frappe-bench:default: Job OK (dev.localhost::574bcf94-a385-4490-a3b1-27dc7d4e212c)
+2024-11-18 14:55:25,029 Result is kept for 600 seconds
+2024-11-18 15:02:10,045 Cleaning registries for queue: workspace-frappe-bench:short
+2024-11-18 15:02:10,046 Cleaning registries for queue: workspace-frappe-bench:default
+2024-11-18 15:02:10,047 Cleaning registries for queue: workspace-frappe-bench:long
+2024-11-18 15:15:40,238 Cleaning registries for queue: workspace-frappe-bench:short
+2024-11-18 15:15:40,239 Cleaning registries for queue: workspace-frappe-bench:default
+2024-11-18 15:15:40,240 Cleaning registries for queue: workspace-frappe-bench:long
+2024-11-18 15:31:05,014 Worker rq:worker:412de36e942e496bb4e597df761e95a0 started with PID 4385, version 1.16.2
+2024-11-18 15:31:05,020 Subscribing to channel rq:pubsub:412de36e942e496bb4e597df761e95a0
+2024-11-18 15:31:05,025 *** Listening on workspace-frappe-bench:short, workspace-frappe-bench:default, workspace-frappe-bench:long...
+2024-11-18 15:31:05,029 Cleaning registries for queue: workspace-frappe-bench:short
+2024-11-18 15:31:05,032 Cleaning registries for queue: workspace-frappe-bench:default
+2024-11-18 15:31:05,034 Cleaning registries for queue: workspace-frappe-bench:long
