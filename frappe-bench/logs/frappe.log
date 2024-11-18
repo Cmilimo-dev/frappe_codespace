@@ -1,0 +1,3 @@
+2024-11-17 22:14:10,158 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {'user': 'cmilimo5@gmail.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
